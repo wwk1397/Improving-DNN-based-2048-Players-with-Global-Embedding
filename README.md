@@ -5,3 +5,4 @@ The training parts are in CNN/program/exp/training.py
 
 Expectimax and Greedy parts are in Exp, Greedy.
 
+More detailed one will be put on latter.
